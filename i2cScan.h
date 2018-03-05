@@ -6,7 +6,7 @@
     // This sketch tests the standard 7-bit addresses
     //
 
-
+// voici notre test 
 // vers quelel liaison série émettre ?
 #define SerialScan Serial
 
